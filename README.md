@@ -1,6 +1,6 @@
 # Código para el uso de Transcripción de audio con Cognitive Service 
 
- - [Da click aquí para ver la clase grabada (Aún no disonible)](https://github.com/jose1824/speech-recongnition-innovaccion-training)
+ - [Da click aquí para ver la clase grabada](https://web.microsoftstream.com/video/96f25d2f-34d1-40b5-a093-539c2f34884b)
  
  Antes de copiar y pegar el código, ejecuta el siguiente comando para establecer tu ambiente de trabajo e instalar todo lo que se necesita para que funcion
 
