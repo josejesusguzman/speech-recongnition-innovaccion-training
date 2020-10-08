@@ -18,3 +18,4 @@ Una vez termine la instalación, ejecuta el siguiente comando:
 
     dotnet run
 
+Si quieres puedes probar con el segundo audio que te dejo en este repositorio o tu probar con uno pero debe ser en Inglés.
